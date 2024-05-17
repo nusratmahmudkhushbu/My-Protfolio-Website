@@ -1,2 +1,2 @@
 # My-Protfolio-Website
-This is my Protfolio webiste..
+This is my Protfolio website..

@@ -14,13 +14,15 @@ body {
 }
 
 #header {
-    width: 70%;
-    height: 70vh;
-    background-image: url(ww.png);
-    background-size: cover;
-    background-position: center;
-    position: relative;
+  background-image: url('Image/your-image.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 10px 20px;
+  border-radius: 8px;
+  color: #fff;
+  display: inline-block;
 }
+
 
 .container {
     padding: 10px 10%;
